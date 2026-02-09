@@ -1,6 +1,9 @@
 # 국민대 AI 빅데이터 분석 경진대회
-- 링크 : https://www.dacon.io/competitions/official/236619/overview/description
+<img width="949" height="219" alt="스크린샷 2026-02-09 125018" src="https://github.com/user-attachments/assets/94acc5cb-021a-460a-8374-871d8f3e0fcd" />
 
+[DACON](https://www.dacon.io/competitions/official/236619/overview/description)
+
+-------------------------------------------------------------------------------------
 [프로젝트 설명] 원시 무역 수입 데이터(2022년 1월 ~ 2025년 7월)를 기반으로, 
 품목 간 공행성(comovement)이 존재하는 선후행 쌍을 예측하고, 공행성이 있다고 판단된 경우에는 
 후행 품목의 다음 달(2025년 8월) 총 무역량(value)을 예측하는 AI 모델을 개발합니다.
